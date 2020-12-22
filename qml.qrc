@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>joynext.bmp</file>
+        <file>Joynext.qml</file>
+    </qresource>
+</RCC>
